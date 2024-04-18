@@ -1,1 +1,1 @@
-# glimps-of-india
+# Stock analysis
